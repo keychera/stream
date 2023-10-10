@@ -22,3 +22,12 @@ things that needs to be considered later
 currently I am stuck, so I want to do livecoding instead
 
 - requirement gathering...(?)
+
+icip was:
+- a Junit5 but "extended"
+- it has web automation, using Selenium "wrapped" in a custom library called "Lambdanium"
+- it has mobile automation, using Appium "wrapped" in a custom library called "Lambdanium"
+- uses custom Page Object Model, a library that I named "Journey"
+- it has REST Api automation, using RestAssured
+- it has GRPC automation, using a custom generator
+- it is deployable anywhere JVM can run (after all it's a kotlin program)
