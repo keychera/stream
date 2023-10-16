@@ -14,6 +14,17 @@ steps now are
 2. look for tutorials of POM
 3. write POM and the comparison between Journey and POM
 4. write the article
+5. 
 
 
+today's goal
+- install kotlin✅
+- start rewriting the lib✅
+    - look at old code✅
+    - rewrite the `step`✅
+    - rewrite `check`
+    - test with selenium
+    - test with appium
+    
+- someday, check playwright and those other tools
 
